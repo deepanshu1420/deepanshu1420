@@ -66,7 +66,7 @@
 <h2 align="center">📫 Reach out to me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/deepanshu1420">
+  <a href="[https://linkedin.com/in/deepanshu1420](https://www.linkedin.com/in/deepanshu-sharma12/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:deepanshusharma1420@gmail.com">
