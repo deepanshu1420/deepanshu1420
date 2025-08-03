@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=450&lines=Software+Developer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2de60f1fc562f887200414c522074de110252323ab3a56f7c694185bba95b6d3/68747470733a2f2f692e696d6775722e636f6d2f4575334e7472552e706e67" width="100%" alt="Header Image" />
-</p>
-
 ---
 
 ## 🧰 Technology Stack
@@ -27,7 +23,8 @@
 
 ## 😊 About Me
 
-I'm driven by a passion for software development, where I blend creativity with precision in every line of code. With a tech background, I’ve built real-world projects, gained hands-on experience in data structures and algorithms, and enjoy building websites, exploring emerging technologies, and contributing to meaningful innovations in the tech world.
+- I'm driven by a passion for software development, where I blend creativity with precision in every line of code.  
+- With a tech background, I’ve built real-world projects, gained hands-on experience in data structures and algorithms, and enjoy building websites, exploring emerging technologies, and contributing to meaningful innovations in the tech world.
 
 ---
 
