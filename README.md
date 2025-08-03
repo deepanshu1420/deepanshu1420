@@ -6,9 +6,9 @@
 
 ---
 
-## 🧰 Technology Stack
+<h2 align="center">🧰 Technology Stack</h2>
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -21,14 +21,14 @@
 
 ---
 
-## 😊 About Me
+<h2 align="center">😊 About Me</h2>
 
 - I'm driven by a passion for software development, where I blend creativity with precision in every line of code.  
 - With a tech background, I’ve built real-world projects, gained hands-on experience in data structures and algorithms, and enjoy building websites, exploring emerging technologies, and contributing to meaningful innovations in the tech world.
 
 ---
 
-## 📊 Deepanshu Sharma's GitHub Stats
+<h2 align="center">📊 Deepanshu Sharma's GitHub Statistics</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-425-blueviolet?style=for-the-badge"/>
@@ -63,7 +63,20 @@
 
 ---
 
-## 🎉 Fun Coder's Corner
+<h2 align="center">📫 Reach out to me</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/deepanshu1420">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:deepanshusharma1420@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">🎉 Fun Coder's Corner</h2>
 
 <div align="center">
 
@@ -79,4 +92,6 @@
 
 ---
 
+<p align="center">
 ⭐ _If you like what you see, drop a ⭐ on any repository you find useful!_
+</p>
