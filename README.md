@@ -9,21 +9,46 @@
 <h2 align="center">🧰 Technology Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-4B8BBE?style=for-the-badge&logo=OpenAI&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="45" height="45"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="45" height="45"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="45" height="45"/>
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+    </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="45" height="45"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="45" height="45"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+    </a>
 </p>
 
 ---
 
 <h2 align="center">😊 About Me</h2>
 
-- I'm driven by a passion for software development, where I blend creativity with precision in every line of code.  
+- I'm driven by a passion for software development, where I blend creativity with precision in every line of code.    
 - With a tech background, I’ve built real-world projects, gained hands-on experience in data structures and algorithms, and enjoy building websites, exploring emerging technologies, and contributing to meaningful innovations in the tech world.
 
 ---
@@ -31,7 +56,7 @@
 <h2 align="center">📊 Deepanshu Sharma's GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-425-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Profile%20Views-400-blueviolet?style=for-the-badge"/>
 </p>
 
 <table align="center" width="70%" style="text-align:center; border-collapse:collapse; font-size:17px; border: 2px solid #ddd;">
@@ -76,19 +101,14 @@
 
 ---
 
-<h2 align="center">🎉 Fun Coder's Corner</h2>
+<h2 align="center">🏆 My Achievements</h2>
 
-<div align="center">
-
-🎨 **Q: What's the most used programming language in the world?**  
-🌟 <span style="color:#F7DF1E"><strong>JavaScript</strong></span> — the king of the web!
-
-🎧 **Q: What's a developer’s favorite band?**  
-**Algo-Rhythm!** 🎵😂
-
-⚡ Stay curious, keep building, and don't forget to have fun along the way!
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-Intermediate_Dev-blue?style=for-the-badge" alt="Experience Badge"/>
+  <img src="https://img.shields.io/badge/Commits-Active_Committer-green?style=for-the-badge" alt="Commits Badge"/>
+  <img src="https://img.shields.io/badge/⭐_Stars-Star_Gazer-yellow?style=for-the-badge" alt="Stars Badge"/>
+  <img src="https://img.shields.io/badge/Pull_Requests-Contributor-orange?style=for-the-badge" alt="Pull Requests Badge"/>
+</p>
 
 ---
 
