@@ -113,11 +113,12 @@
   <img src="https://img.shields.io/badge/Open%20Source%20Lover-FF4500?style=for-the-badge&logo=github" />
 </p>
 
-<p align="center" style="font-size: 16px;">
-✨ Passionate about building impactful software, solving challenging problems, and continuously learning new technologies.<br/>
-🚀 Focused on creating efficient, scalable, and user-friendly solutions.<br/>
-💡 Always exploring innovative ideas and contributing to the tech community.
+<p align="center" style="font-size: 16px; font-weight: bold;">
+🚀 Build. Solve. Innovate. <br/>
+💡 Code with impact. <br/>
+🔥 Always leveling up.
 </p>
+
 
 ---
 
