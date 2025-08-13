@@ -66,11 +66,11 @@
   </tr>
   <tr>
     <td>⭐ Total Stars Earned</td>
-    <td>6</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>🔁 Total Commits (2025)</td>
-    <td>5</td>
+    <td>32</td>
   </tr>
   <tr>
     <td>📦 Total PRs</td>
@@ -91,24 +91,48 @@
 <h2 align="center">📫 Reach out to me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepanshu-sharma12/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/deepanshu-sharma12/" target="blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="32" width="32" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:deepanshusharma1420@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" height="32" width="32" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">🏆 My Achievements</h2>
+<h2 align="center">🏆 My Achievements & Skillset</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Experience-Intermediate_Dev-blue?style=for-the-badge" alt="Experience Badge"/>
-  <img src="https://img.shields.io/badge/Commits-Active_Committer-green?style=for-the-badge" alt="Commits Badge"/>
-  <img src="https://img.shields.io/badge/⭐_Stars-Star_Gazer-yellow?style=for-the-badge" alt="Stars Badge"/>
-  <img src="https://img.shields.io/badge/Pull_Requests-Contributor-orange?style=for-the-badge" alt="Pull Requests Badge"/>
-</p>
+<table align="center" width="80%">
+  <tr>
+    <td width="50%">
+      <strong>🧠 Problem Solving</strong><br/>
+      <em>Solved 300+ DSA problems on platforms like LeetCode and GeeksforGeeks, strengthening my grasp of core algorithms and data structures.</em>
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Progress-85%25-brightgreen?style=for-the-badge&logo=leetcode" alt="Problem Solving Progress"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>💻 Full-Stack Development</strong><br/>
+      <em>Successfully designed, developed, and deployed multiple end-to-end web applications from scratch, handling both frontend and backend logic.</em>
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Expertise-90%25-blue?style=for-the-badge&logo=vercel" alt="Full-Stack Expertise"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>🌐 Open Source Contribution</strong><br/>
+      <em>Actively contribute to the open-source community, focusing on improving documentation, fixing bugs, and adding new features.</em>
+    </td>
+    <td width="50%">
+      <img src="https://img.shields.io/badge/Status-Active_Contributor-orange?style=for-the-badge&logo=github" alt="Open Source Status"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
