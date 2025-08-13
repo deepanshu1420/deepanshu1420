@@ -48,8 +48,11 @@
 
 <h2 align="center">😊 About Me</h2>
 
-- I'm driven by a passion for software development, where I blend creativity with precision in every line of code.    
-- With a tech background, I’ve built real-world projects, gained hands-on experience in data structures and algorithms, and enjoy building websites, exploring emerging technologies, and contributing to meaningful innovations in the tech world.
+🎯 I'm driven by a passion for software development, where I blend creativity with precision in every line of code.<br>
+💡 With a tech background, I’ve built real-world projects and gained hands-on experience in data structures and algorithms.<br>
+🌱 I enjoy building websites, exploring emerging technologies, and contributing to meaningful innovations in the tech world.
+
+
 
 ---
 
@@ -88,51 +91,33 @@
 
 ---
 
-<h2 align="center">📫 Reach out to me</h2>
-
+<h2 align="center">📫 Let's Connect!</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/deepanshu-sharma12/" target="blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="32" width="32" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/deepanshu-sharma12/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:deepanshusharma1420@gmail.com">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Light.svg" height="32" width="32" alt="Gmail"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🏆 My Achievements & Skillset</h2>
+<h2 align="center">🏆 Highlights</h2>
 
-<table align="center" width="80%">
-  <tr>
-    <td width="50%">
-      <strong>🧠 Problem Solving</strong><br/>
-      <em>Solved 300+ DSA problems on platforms like LeetCode and GeeksforGeeks, strengthening my grasp of core algorithms and data structures.</em>
-    </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Progress-85%25-brightgreen?style=for-the-badge&logo=leetcode" alt="Problem Solving Progress"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>💻 Full-Stack Development</strong><br/>
-      <em>Successfully designed, developed, and deployed multiple end-to-end web applications from scratch, handling both frontend and backend logic.</em>
-    </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Expertise-90%25-blue?style=for-the-badge&logo=vercel" alt="Full-Stack Expertise"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <strong>🌐 Open Source Contribution</strong><br/>
-      <em>Actively contribute to the open-source community, focusing on improving documentation, fixing bugs, and adding new features.</em>
-    </td>
-    <td width="50%">
-      <img src="https://img.shields.io/badge/Status-Active_Contributor-orange?style=for-the-badge&logo=github" alt="Open Source Status"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Code%20Enthusiast-00FF00?style=for-the-badge&logo=codefactor" />
+  <img src="https://img.shields.io/badge/DSA%20Problem%20Solver-FFD700?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1E90FF?style=for-the-badge&logo=vercel" />
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-FF4500?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center" style="font-size: 16px;">
+✨ Passionate about building impactful software, solving challenging problems, and continuously learning new technologies.<br/>
+🚀 Focused on creating efficient, scalable, and user-friendly solutions.<br/>
+💡 Always exploring innovative ideas and contributing to the tech community.
+</p>
 
 ---
 
