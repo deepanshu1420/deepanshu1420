@@ -66,12 +66,9 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-👋 Hi, I’m a software developer driven by a passion for building impactful software, blending creativity with precision in every line of code.<br>
+👋 Hi, I’m a software developer passionate about building impactful software, blending creativity with precision in every line of code.<br>
 🧠 With a strong technical background, I’ve delivered end-to-end, production-grade software solutions and data pipelines, along with hands-on experience in <b>Data Structures & Algorithms</b>.<br>
-🌐 I enjoy building modern web applications, exploring emerging technologies, and contributing to meaningful innovations in the tech ecosystem.
-
-<br>
-
+🌐 I enjoy building modern web applications, exploring emerging technologies, and contributing to meaningful innovations in the tech ecosystem.<br>
 ⚙️ Experienced in architecting full-stack <b>MERN</b> applications, exploring <b>prompt engineering</b> with LLMs like ChatGPT, Gemini, and Claude, leveraging testing frameworks, and actively participating in hackathons and coding contests to push technical boundaries.
 
 ---
