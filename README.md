@@ -83,7 +83,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <ul style="color:#8b949e;">
-<li>I write code, prompt AIs, and occasionally break things just to figure out how they work.</li>
+<li>I explore new tech, prompt AIs, and occasionally break things just to figure out how they work.</li>
 <li>I’m a software developer navigating the new AI era - whether that means engineering prompts for Gemini and Claude, or architecting sleek codebases in Cursor AI and VS Code.</li>
 <li>When I’m not grinding through Data Structures & Algorithms to keep my logic sharp, I’m probably hunting down my next hackathon or launching a new product.</li>
 <li>Hit me up for a ☕ cup of tea - let’s brainstorm, collaborate, and ship something awesome.</li>
