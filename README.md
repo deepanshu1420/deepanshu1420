@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">💼Technical Expertise</h2>
+<h2 align="center">💼 Technical Expertise</h2>
 
 <p align="center">
 
@@ -38,51 +38,24 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-💻 Software developer building clean, practical software.<br>
-⚙️ MERN stack • APIs • Data Structures & Algorithms.<br>
-🌐 Curious about AI tools and modern web development.<br>
-🚀 Always learning and shipping better code.
+- I write code, prompt AIs, and occasionally break things just to figure out how they work.<br>
+- I’m a software developer navigating the new AI era - whether that means engineering prompts for Gemini and Claude, or architecting sleek codebases in Cursor AI and VS Code.<br>
+- When I’m not grinding through Data Structures & Algorithms to keep my logic sharp, I’m probably hunting down my next hackathon or launching a new product.<br>
+- Hit me up for a ☕ cup of tea - let’s brainstorm, collaborate, and ship something awesome.
+- Based in 📍 Karnal, Haryana, India.<br>
 
 ---
 
-<h2 align="center">📊 Deepanshu Sharma's GitHub Statistics</h2>
+<h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-400-blueviolet?style=for-the-badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu1420&show_icons=true&theme=radical" alt="deepanshu1420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu1420&layout=compact&theme=radical" alt="deepanshu1420" />
 </p>
 
-<table align="center" width="70%" style="text-align:center; border-collapse:collapse; font-size:17px; border: 2px solid #ddd;">
-  <tr style="background-color:#f3f3f3;">
-    <th>Metric</th>
-    <th>Value</th>
-  </tr>
-  <tr>
-    <td>⭐ Total Stars Earned</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>🔁 Total Commits (2025)</td>
-    <td>32</td>
-  </tr>
-  <tr>
-    <td>📦 Total Pull Requests</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>🐛 Total Issues</td>
-    <td>3</td>
-  </tr>
-  <tr>
-    <td>🌍 Contributed to (last year)</td>
-    <td>6</td>
-  </tr>
-</table>
-
 ---
-
-
 
 <h2 align="center">📫 Let's Connect!</h2>
 
@@ -114,5 +87,5 @@
 ---
 
 <p align="center">
-⭐ _If you like what you see, drop a ⭐ on any repository you find useful!_
+⭐ If you like what you see, drop a ⭐ on any repository you find useful!
 </p>
