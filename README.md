@@ -76,14 +76,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
     </a>
     <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>MySQL
-    </td>
-  </tr>
 </table>
 
 <h2 align="center">👨‍💻 About Me</h2>
