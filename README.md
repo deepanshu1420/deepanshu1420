@@ -53,9 +53,9 @@
       </a>
       <br>Node
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/nextjs.svg" width="48" height="48" alt="React" />
       </a>
       <br>NextJs
     </td>
