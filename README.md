@@ -61,9 +61,15 @@
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/openai.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Docker
+      <br>OpenAI
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/gemini.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Google Gemini
     </td>
     <td align="center"  width="96">
     <a href="#macropower-tech">
