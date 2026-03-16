@@ -109,7 +109,7 @@
 <h2 align="center">🧬 Developer's DNA</h2>
 <table align="center" width="650">
 <tr>
-<td>
+<td style="color:#8b949e;">
   
 🚀 <b>Architect & Innovate</b>  
 I don't just write syntax; I architect solutions and ship real-world products.
