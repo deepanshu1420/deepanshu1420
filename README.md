@@ -4,7 +4,7 @@
 
 > <b>I write code, break stuff, then fix it like it never happened. Been doing it long enough to know Stack Overflow is basically family. If I’m not debugging, I’m probably pretending my code will run on the first try (it won’t). Just here building cool things, one late-night commit at a time.</b>\
 
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">💼 Favorite Tech</h2>
 
 <p>
   <span style="color:#8b949e;">Tools, languages, and other things that I like to work with.</span>
@@ -106,20 +106,23 @@
   <a href="https://personalportfolio-online.netlify.app/" target="_blank"><img height="25" src="https://img.shields.io/badge/-Portfolio-orange?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 
-<h2 align="center">🏆 Highlights</h2>
+<h2 align="center">🧬 Developer's DNA</h2>
+<table align="center" width="650">
+<tr>
+<td>
+  
+🚀 <b>Architect & Innovate</b>  
+I don't just write syntax; I architect solutions and ship real-world products.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Code%20Enthusiast-00FF00?style=for-the-badge&logo=codefactor" />
-  <img src="https://img.shields.io/badge/DSA%20Problem%20Solver-FFD700?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1E90FF?style=for-the-badge&logo=vercel" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Lover-FF4500?style=for-the-badge&logo=github" />
-</p>
+💡 <b>Impact-Driven Execution</b>  
+Leveraging modern web stacks (React / NextJs) and next-gen AI to build tools with purpose.
 
-<p align="center" style="font-size: 16px; font-weight: bold;">
-🚀 Build. Solve. Innovate. <br/>
-💡 Code with impact. <br/>
-🔥 Always leveling up.
-</p>
+🔥 <b>Relentless Progression</b>  
+From dominating hackathons to optimizing algorithms, I am constantly upgrading my skill tree.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
 ⭐ If you like what you see, drop a ⭐ on any repository you find useful!
