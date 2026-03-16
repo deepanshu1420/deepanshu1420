@@ -124,6 +124,6 @@ From dominating hackathons to optimizing algorithms, I am constantly upgrading m
 </tr>
 </table>
 
-<p align="center">
-⭐ If you like what you see, drop a ⭐ on any repository you find useful!
+<p align="center" style="color:#8b949e;">
+If you like what you see, drop a ⭐ on any repository you find useful!
 </p>
