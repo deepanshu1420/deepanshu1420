@@ -31,13 +31,13 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
     </td>
