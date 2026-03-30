@@ -93,8 +93,8 @@
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshu1420&show_icons=true&theme=radical" alt="deepanshu1420" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu1420&layout=compact&theme=radical" alt="deepanshu1420" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshu1420&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu1420&layout=compact&theme=radical" width="48%" />
 </p>
 
 <h2 align="center">📫 Let's Connect!</h2>
