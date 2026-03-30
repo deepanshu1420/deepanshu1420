@@ -13,19 +13,19 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/cpp.svg" width="48" height="48" alt="Python" />
+        <img src="./img/cpp.svg" width="48" height="48" alt="C++" />
       </a>
       <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/java.svg" width="48" height="48" alt="React" />
+        <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/js.svg" width="48" height="48" alt="React" />
+        <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
@@ -43,25 +43,25 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="React" />
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Node" />
       </a>
       <br>Node
     </td>
      <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/nextjs.svg" width="48" height="48" alt="React" />
+        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJs" />
       </a>
       <br>NextJs
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/openai.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/openai.svg" width="48" height="48" alt="OpenAI" />
       </a>
       <br>OpenAI
     </td>
     <td align="center" width="96"> 
       <a href="#macropower-tech" >
-        <img src="./img/gemini.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/gemini.svg" width="48" height="48" alt="GoogleGemini" />
       </a>
       <br>Google Gemini
     </td>
