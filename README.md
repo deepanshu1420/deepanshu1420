@@ -94,7 +94,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deepanshu1420&show_icons=true&theme=radical&hide_border=true" width="54%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu1420&layout=compact&theme=radical&hide_border=true" width="42%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deepanshu1420&layout=compact&theme=radical&hide_border=true" width="44%" />
 </p>
 
 <h2 align="center">📫 Let's Connect!</h2>
