@@ -66,10 +66,10 @@
       <br>Google Gemini
     </td>
     <td align="center"  width="96">
-    <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-    </a>
-    <br>MongoDB
+      <a href="#macropower-tech" >
+        <img src="./img/MongoDB.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
