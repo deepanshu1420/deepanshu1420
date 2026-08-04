@@ -122,5 +122,3 @@ From dominating hackathons to optimizing algorithms, I am constantly upgrading m
 <p align="center" style="color:#8b949e;">
 If you like what you see, drop a ⭐ on any repository you find useful!
 </p>
-
-<!-- Love from Deepanshu Sharma-->
