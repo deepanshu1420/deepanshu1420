@@ -123,4 +123,3 @@ From dominating hackathons to optimizing algorithms, I am constantly upgrading m
 If you like what you see, drop a ⭐ on any repository you find useful!
 </p>
 
-<!-- Love from Deepanshu Sharma-->
