@@ -104,7 +104,7 @@
 <td style="color:#8b949e;">
 
 🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b>  
-for developing InsightBot, a Natural Language Processing (NLP)-based Twitter Sentiment Analyzer. <strong><i>(Dec 2023)</i></strong>
+for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sentiment Analyzer. <strong><i>(Dec 2023)</i></strong>
 
 🛰️ <b>Selected by ISRO–SAC</b>  
 for a Cybersecurity R&D Traineeship focused on emerging cybersecurity technologies and research. <strong><i>(June 2023)</i></strong>
