@@ -7,7 +7,7 @@
 <h2 align="left" id="macropower-tech">💼 Favorite Tech</h2>
 
 <p>
-  <span style="color:#8b949e;">Tools, languages, and other things that I like to work with.</span>
+  <i><span style="color:#8b949e;">Tools, languages, and other things that I like to work with.</span></i>
 </p>
 <table>
   <tr>
