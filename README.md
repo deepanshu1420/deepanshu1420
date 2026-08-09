@@ -107,8 +107,7 @@
 <tr>
 <td style="color:#8b949e;">
 
-🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b><br>
-<sub>&nbsp;</sub>
+🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b>  
 for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sentiment Analyzer.
 
 🛰️ <b>Selected by ISRO (SAC)</b>  
