@@ -99,8 +99,6 @@
 
 <h2 align="center">🏅 Leadership & Achievements</h2>
 
-<p align="center"><i>A look at some of my proudest achievements.</i></p>
-
 <table align="center" width="650">
 <tr>
 <td style="color:#8b949e;">
