@@ -90,20 +90,20 @@
 <li>Based in 📍 Karnal, Haryana, India.</li>
 </ul>
 
-<h2 align="center">🏅 Leadership & Achievements</h2>
-
-<ul style="color:#8b949e;">
-<li>🏆 3rd Prize Winner - Smart India Hackathon, recognized by the Ministry of Education, Government of India, for developing InsightBot, a Twitter sentiment analyzer powered by Natural Language Processing (NLP). <i>(Dec 2023)</i></li>
-<li>🛰️ Selected by ISRO–SAC for Cybersecurity R&D Traineeship, contributing to research and development in cybersecurity and emerging technologies. <i>(Dec 2023)</i></li>
-<li>🌎 Global Rank 929 among 11K+ Competitive Programmers - Google Code Jam, ranking among the top participants globally. <i>(June 2023)</i></li>
-</ul>
-
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=deepanshu1420&show_icons=true&theme=radical&hide_border=true" width="54%" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=deepanshu1420&layout=compact&theme=radical&hide_border=true" width="41%" />
 </p>
+
+<h2 align="center">🏅 Leadership & Achievements</h2>
+
+<ul style="color:#8b949e;">
+<li>🏆 3rd Prize Winner - Smart India Hackathon for developing InsightBot, a Twitter sentiment analyzer using Natural Language Processing (NLP). (Dec 2023)</li>
+<li>🛰️ Selected by ISRO–SAC for Cybersecurity R&D Traineeship in emerging cybersecurity technologies. (Dec 2023)</li>
+<li>🌎 Global Rank 929 among 11K+ Competitive Programmers - Google Code Jam. (June 2023)</li>
+</ul>
 
 <h2 align="center">📫 Let's Connect!</h2>
 
