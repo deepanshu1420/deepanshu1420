@@ -103,23 +103,22 @@
 
 <h2 align="center">🏅 Leadership & Achievements</h2>
 
-<br/>
+<table align="center" width="650">
+<tr>
+<td style="color:#8b949e;">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SIH-3rd%20Prize%20Winner-FFD700?style=flat-square" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/ISRO-Selected%20Trainee-003791?style=flat-square&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Google%20Code%20Jam-Global%20Rank%20929-4285F4?style=flat-square&logo=google&logoColor=white" />
-</p>
+🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b>  
+for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sentiment Analyzer.
 
-<br/>
+🛰️ <b>Selected by ISRO (SAC)</b>  
+for a Cybersecurity R&D Traineeship researching Security Intelligence and operational scenarios.
 
-<p align="center">🏆 <b>3rd Prize — Smart India Hackathon (SIH)</b> · Built <b>InsightBot</b>, an NLP-powered Twitter Sentiment Analyzer, selected among top national teams.</p>
+🌎 <b>Global Rank 929 - Google Code Jam</b>  
+ranked among 11K+ competitive programmers for developing optimized algorithmic solutions.
 
-<p align="center">🛰️ <b>Selected by ISRO (SAC)</b> · Chosen for a <b>Cybersecurity R&D Traineeship</b> in Security Intelligence & operational research.</p>
-
-<p align="center">🌐 <b>Global Rank 929 — Google Code Jam</b> · Ranked among <b>top 929 out of 11K+ programmers</b> worldwide for algorithmic solutions.</p>
+</td>
+</tr>
+</table>
 
 <p align="center" style="color:#8b949e;">
 If you like what you see, drop a ⭐ on any repository you find useful!
