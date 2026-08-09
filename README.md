@@ -100,7 +100,7 @@
 <h2 align="center">🏅 Leadership & Achievements</h2>
 
 <ul style="color:#8b949e;">
-<li>3rd Prize Winner - Smart India Hackathon (SIH) for developing InsightBot, a Twitter sentiment analyzer using Natural Language Processing (NLP) to analyze social media sentiment. <strong>(Dec 2023)</strong></li>
+<li>3rd Prize Winner 🏆 - Smart India Hackathon (SIH) for developing InsightBot, a <i>Twitter sentiment</i> analyzer using Natural Language Processing (NLP) to analyze social media sentiment. <strong>(Dec 2023)</strong></li>
 <li>Selected by ISRO–SAC for Cybersecurity R&D Traineeship in emerging cybersecurity technologies. <strong>(Dec 2023)</strong></li>
 <li>Global Rank 929 among 11K+ Competitive Programmers - Google Code Jam. <strong>(June 2023)</strong></li>
 </ul>
