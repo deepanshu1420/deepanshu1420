@@ -90,6 +90,14 @@
 <li>Based in 📍 Karnal, Haryana, India.</li>
 </ul>
 
+<h2 align="center">🏅 Leadership & Achievements</h2>
+
+<ul style="color:#8b949e;">
+<li>🏆 3rd Prize Winner - Smart India Hackathon, recognized by the Ministry of Education, Government of India, for developing InsightBot, a Twitter sentiment analyzer powered by Natural Language Processing (NLP). <i>(Dec 2023)</i></li>
+<li>🛰️ Selected by ISRO–SAC for Cybersecurity R&D Traineeship, contributing to research and development in cybersecurity and emerging technologies. <i>(Dec 2023)</i></li>
+<li>🌎 Global Rank 929 among 11K+ Competitive Programmers - Google Code Jam, ranking among the top participants globally. <i>(June 2023)</i></li>
+</ul>
+
 <h2 align="center">📈 GitHub Activity Graph</h2>
 
 <p align="center">
