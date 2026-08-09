@@ -103,9 +103,11 @@
 
 <h2 align="center">🏅 Leadership & Achievements</h2>
 
-<table align="center" width="650" cellpadding="16">
+<table align="center" width="650">
 <tr>
 <td style="color:#8b949e;">
+
+<br/>
 
 🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b>  
 for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sentiment Analyzer.
@@ -115,6 +117,8 @@ for a Cybersecurity R&D Traineeship researching Security Intelligence and operat
 
 🌎 <b>Global Rank 929 - Google Code Jam</b>  
 ranked among 11K+ competitive programmers for developing optimized algorithmic solutions.
+
+<br/>
 
 </td>
 </tr>
