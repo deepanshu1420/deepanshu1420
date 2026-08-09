@@ -111,7 +111,7 @@
 for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sentiment Analyzer. <strong><i>(Dec 2023)</i></strong>
 
 🛰️ <b>Selected by ISRO (SAC)</b>  
-for a Cybersecurity R&D Traineeship focused on research in Security Intelligence and operational scenarios. <strong><i>(June 2023)</i></strong>
+for a Cybersecurity R&D Traineeship researching Security Intelligence and operational scenarios. <strong><i>(June 2023)</i></strong>
 
 🌎 <b>Global Rank 929 - Google Code Jam</b>  
 ranked among 11K+ competitive programmers for developing optimized algorithmic solutions. <strong><i>(Aug 2022)</i></strong>
