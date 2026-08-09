@@ -103,7 +103,7 @@
 
 <h2 align="center">🏅 Leadership & Achievements</h2>
 
-<table align="center" width="690">
+<table align="center" width="650">
 <tr>
 <td style="color:#8b949e;">
 
