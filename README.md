@@ -115,23 +115,11 @@
 
 <br/>
 
-<table align="center" width="750" border="0">
-  <tr>
-    <td align="center" width="40">🏆</td>
-    <td width="310"><b>3rd Prize — Smart India Hackathon (SIH)</b></td>
-    <td>Built <b>InsightBot</b>, an NLP-powered Twitter Sentiment Analyzer, selected among top national teams.</td>
-  </tr>
-  <tr>
-    <td align="center">🛰️</td>
-    <td><b>Selected by ISRO (SAC)</b></td>
-    <td>Chosen for a <b>Cybersecurity R&D Traineeship</b> in Security Intelligence & operational research.</td>
-  </tr>
-  <tr>
-    <td align="center">🌐</td>
-    <td><b>Global Rank 929 — Google Code Jam</b></td>
-    <td>Ranked among <b>top 929 out of 11K+ programmers</b> worldwide for algorithmic solutions.</td>
-  </tr>
-</table>
+<p align="center">🏆 <b>3rd Prize — Smart India Hackathon (SIH)</b> · Built <b>InsightBot</b>, an NLP-powered Twitter Sentiment Analyzer, selected among top national teams.</p>
+
+<p align="center">🛰️ <b>Selected by ISRO (SAC)</b> · Chosen for a <b>Cybersecurity R&D Traineeship</b> in Security Intelligence & operational research.</p>
+
+<p align="center">🌐 <b>Global Rank 929 — Google Code Jam</b> · Ranked among <b>top 929 out of 11K+ programmers</b> worldwide for algorithmic solutions.</p>
 
 <p align="center" style="color:#8b949e;">
 If you like what you see, drop a ⭐ on any repository you find useful!
