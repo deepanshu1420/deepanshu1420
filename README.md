@@ -103,22 +103,18 @@
 
 <h2 align="center">🏅 Leadership & Achievements</h2>
 
-<table align="center" width="650">
-<tr>
-<td style="color:#8b949e;">
+<p align="center">
 
-🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b>  
-for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sentiment Analyzer.
+> 🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b><br/>
+> for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sentiment Analyzer.
+> 
+> 🛰️ <b>Selected by ISRO (SAC)</b><br/>
+> for a Cybersecurity R&D Traineeship researching Security Intelligence and operational scenarios.
+> 
+> 🌎 <b>Global Rank 929 - Google Code Jam</b><br/>
+> ranked among 11K+ competitive programmers for developing optimized algorithmic solutions.
 
-🛰️ <b>Selected by ISRO (SAC)</b>  
-for a Cybersecurity R&D Traineeship researching Security Intelligence and operational scenarios.
-
-🌎 <b>Global Rank 929 - Google Code Jam</b>  
-ranked among 11K+ competitive programmers for developing optimized algorithmic solutions.
-
-</td>
-</tr>
-</table>
+</p>
 
 <p align="center" style="color:#8b949e;">
 If you like what you see, drop a ⭐ on any repository you find useful!
