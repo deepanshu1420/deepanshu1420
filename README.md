@@ -99,7 +99,7 @@
 
 <h2 align="center">🏅 Leadership & Achievements</h2>
 
-<p align="center"><i>A look at some of my proudest achievements.</i></p>
+<p align="left"><i>A look at some of my proudest achievements.</i></p>
 
 <table align="center" width="650">
 <tr>
@@ -112,7 +112,7 @@ for developing InsightBot, a Natural Language Processing (NLP)-based Twitter Sen
 for a Cybersecurity R&D Traineeship focused on emerging cybersecurity technologies and research. <i>(June 2023)</i>
 
 🌎 <b>Global Rank 929 - Google Code Jam</b>  
-ranked among 11K+ competitive programmers globally in Google's international programming competition. <i>(Aug 2022)</i>
+ranked among 11K+ competitive programmers, developing optimized algorithmic solutions. <i>(Aug 2022)</i>
 
 </td>
 </tr>
