@@ -103,17 +103,14 @@
 <tr>
 <td style="color:#8b949e;">
 
-<b>🏆 3rd Prize Winner - Smart India Hackathon (SIH)</b>
-<span style="float:right;"><strong><i>(Dec 2023)</i></strong></span>
-for developing InsightBot, a Natural Language Processing (NLP)-based Twitter Sentiment Analyzer.
+🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b>  
+for developing InsightBot, a Natural Language Processing (NLP)-based Twitter Sentiment Analyzer. <i>(Dec 2023)</i>
 
-<b>🛰️ Selected by ISRO–SAC</b>
-<span style="float:right;"><strong><i>(June 2023)</i></strong></span>
-for a Cybersecurity R&D Traineeship focused on emerging cybersecurity technologies and research.
+🛰️ <b>Selected by ISRO–SAC</b>  
+for a Cybersecurity R&D Traineeship focused on emerging cybersecurity technologies and research. <i>(June 2023)</i>
 
-<b>🌎 Global Rank 929 - Google Code Jam</b>
-<span style="float:right;"><strong><i>(Aug 2022)</i></strong></span>
-ranked among 11K+ competitive programmers for developing optimized algorithmic solutions.
+🌎 <b>Global Rank 929 - Google Code Jam</b>  
+ranked among 11K+ competitive programmers for developing optimized algorithmic solutions. <i>(Aug 2022)</i>
 
 </td>
 </tr>
