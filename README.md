@@ -99,11 +99,7 @@
 
 <h2 align="center">🏅 Leadership & Achievements</h2>
 
-<div align="center">
-<p align="left" style="width:650px;">
-<i>A look at some of my proudest achievements.</i>
-</p>
-</div>
+<p align="center"><i>A look at some of my proudest achievements.</i></p>
 
 <table align="center" width="650">
 <tr>
