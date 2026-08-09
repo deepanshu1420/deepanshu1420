@@ -101,16 +101,22 @@
 
 <p align="center"><i>A look at some of my proudest achievements.</i></p>
 
-<ul style="color:#8b949e;">
-<li>🏆 <strong>3rd Prize Winner - Smart India Hackathon (SIH)</strong><br>
-&nbsp;&nbsp;&nbsp;for developing InsightBot, a Twitter Sentiment Analyzer. <i>(Dec 2023)</i></li>
+<table align="center" width="650">
+<tr>
+<td style="color:#8b949e;">
 
-<li>🛰️ <strong>Selected by ISRO–SAC</strong><br>
-&nbsp;&nbsp;&nbsp;for Cybersecurity R&D Traineeship in emerging technologies. <i>(June 2023)</i></li>
+🏆 <b>3rd Prize Winner - Smart India Hackathon (SIH)</b>  
+for developing InsightBot, a Twitter Sentiment Analyzer designed to analyze public sentiment trends through social media data. <i>(Dec 2023)</i>
 
-<li>🌎 <strong>Global Rank 929</strong><br>
-&nbsp;&nbsp;&nbsp;among 11K+ Competitive Programmers - Google Code Jam. <i>(Aug 2022)</i></li>
-</ul>
+🛰️ <b>Selected by ISRO–SAC</b>  
+for a Cybersecurity R&D Traineeship focused on emerging cybersecurity technologies and research. <i>(June 2023)</i>
+
+🌎 <b>Global Rank 929 - Google Code Jam</b>  
+ranked among 11K+ competitive programmers globally in Google's international programming competition. <i>(Aug 2022)</i>
+
+</td>
+</tr>
+</table>
 
 <h2 align="center">📫 Let's Connect!</h2>
 
