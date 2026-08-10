@@ -114,7 +114,7 @@ for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sen
 for a Cybersecurity R&D Traineeship researching Security Intelligence and operational scenarios.
 
 🚀 <b>Top 30 - Samsung Solve for Tomorrow</b>  
-chosen from 70K+ submissions for contributing to a next-gen AI solution for hearing-impaired users.
+chosen from 70K+ submissions for contributing to a smart AI solution for hearing-impaired users.
 
 </td>
 </tr>
