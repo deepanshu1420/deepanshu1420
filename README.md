@@ -113,8 +113,8 @@ for developing InsightBot, a Natural Language Processing (NLP) based Twitter Sen
 🛰️ <b>Selected by ISRO (SAC)</b>  
 for a Cybersecurity R&D Traineeship researching Security Intelligence and operational scenarios.
 
-🌎 <b>Global Rank 929 - Google Code Jam</b>  
-ranked among 11K+ competitive programmers for developing optimized algorithmic solutions.
+🚀 <b>Top 30 - Samsung Solve for Tomorrow</b>  
+chosen from 70K+ submissions for contributing to an innovative AI solution for hearing-impaired users.
 
 </td>
 </tr>
